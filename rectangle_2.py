@@ -1,4 +1,8 @@
-from rectangle import Rectangle, Square
+# Выполните задание, взяв за основу полученный код из задания 16.8.1. Добавьте еще один класс —
+# круг (class Circle), который принимает в качестве аргументов свой радиус.
+# Вычислите площадь круга
+
+from rectangle.py import Rectangle, Square, Circle
 #далее создаем два прямоугольника
 
 rect_1 = Rectangle(3,4)
